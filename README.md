@@ -1,1 +1,1 @@
-# Dual-Head-Adversarial-Training
+# Dual Head Adversarial Training
