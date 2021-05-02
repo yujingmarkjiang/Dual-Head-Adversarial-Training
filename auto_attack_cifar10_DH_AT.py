@@ -17,7 +17,7 @@ if __name__ == '__main__':
     parser.add_argument('--data_dir', type=str, default='../data')
     parser.add_argument('--norm', type=str, default='Linf')
     parser.add_argument('--epsilon', type=float, default=0.031)
-    parser.add_argument('--model_path', type=str, default='./model-cifar-wrn_baseline/model_cifar_wrn.pt')
+    parser.add_argument('--model_path', type=str, default='./checkpoints/DH_AT_TRADES.pt')
     parser.add_argument('--n_ex', type=int, default=10000)
     parser.add_argument('--individual', action='store_true')
     parser.add_argument('--batch_size', type=int, default=200)
