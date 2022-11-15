@@ -14,10 +14,12 @@ A [pre-trained checkpoint](https://drive.google.com/file/d/1I4guLRhpa90IK7I8n7Uq
 ## Reference
 For technical details and full experimental results, please check [the paper](https://arxiv.org/pdf/2104.10377.pdf).
 ```
-@article{jiang2021dual,
+@inproceedings{jiang2021dual,
   title={Dual Head Adversarial Training},
   author={Jiang, Yujing and Ma, Xingjun and Erfani, Sarah Monazam and Bailey, James},
-  journal={arXiv preprint arXiv:2104.10377},
-  year={2021}
+  booktitle={2021 International Joint Conference on Neural Networks (IJCNN)},
+  pages={1--8},
+  year={2021},
+  organization={IEEE}
 }
 ```
